@@ -7,7 +7,7 @@ Data cleaning, DAX calculations, interactive dashboard creation, sales & profit 
 This project is an advanced Power BI dashboard created by following a guided tutorial.  
 It includes data cleaning, DAX calculations, visualization design, forecasting, and insight generation.
 
-# 🧠 Skills Demonstrated
+# Skills Demonstrated
 - Power BI Data Modeling  
 - Data cleaning & transformation  
 - Creating calculated columns and measures (DAX)  
@@ -15,12 +15,12 @@ It includes data cleaning, DAX calculations, visualization design, forecasting, 
 - Time-series forecasting  
 - Designing KPI indicators and visual insights  
 
-# 📁 Files Included
+# Files Included
 - Standard_Store_Sales_Dashboard.pbix  
 - Dashboard_PDF_Export.pdf 
 - Documentation with insights  
 
-# 📈 Dashboard Features
+# Dashboard Features
 - Sales by Category & Sub-Category  
 - Sales & Profit Trend (2019–2020)  
 - Orders, Sales, Profit & Ship Days KPIs  
@@ -29,17 +29,14 @@ It includes data cleaning, DAX calculations, visualization design, forecasting, 
 - Payment Mode Analysis  
 - Map Visualization (State-level sales)  
 
-# 📝 Project Learnings / Insights
+# Project Learnings 
 - Identified highest revenue-generating categories  
 - Compared yearly sales & profit patterns  
 - Analyzed segment-wise customer contribution  
 - Studied regional and state-level performance  
 - Used forecasting to estimate future sales trends  
 
-# 📦 How to Use
+# How to Use
 1. Download the .pbix file  
 2. Open it in **Power BI Desktop**  
 3. Explore visuals, filters & forecasting features  
-
-## 🙌 Acknowledgment
-This project is based on a tutorial by **Rishabh (YouTube)** and recreated for learning and portfolio purposes.
