@@ -17,7 +17,7 @@ It includes data cleaning, DAX calculations, visualization design, forecasting, 
 
 # Files Included
 - Standard_Store_Sales_Dashboard.pbix  
-- Dashboard_PDF_Export.pdf 
+- Sahas_Standard_Store_Dashboard.pdf
 - Documentation with insights  
 
 # Dashboard Features
