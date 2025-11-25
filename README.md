@@ -1,28 +1,45 @@
-# Standard_Store_Sales_PowerBI_Project
-Advanced Power BI Sales Dashboard | Data Analytics Project  This project demonstrates an end-to-end Power BI analysis workflow including:  Data cleaning  DAX calculations, Interactive dashboard creation, Sales &amp; profit trend analysis, Regional &amp; category performance insights, Sales forecasting
+# 📊 Standard Store Sales Power BI Project
 
-📊 Advanced Power BI Sales Dashboard
+An **Advanced Power BI Sales Dashboard** demonstrating end-to-end data analytics workflow including:  
+Data cleaning, DAX calculations, interactive dashboard creation, sales & profit trend analysis, regional insights, and forecasting.
 
-This project is an end-to-end Power BI dashboard created by following a guided tutorial. It includes data cleaning, DAX calculations, visualization design, and forecasting.
+# 🚀 Project Overview
+This project is an advanced Power BI dashboard created by following a guided tutorial.  
+It includes data cleaning, DAX calculations, visualization design, forecasting, and insight generation.
 
-Skills Demonstrated
-- Power BI Data Modeling
-- Cleaning & transforming data
-- Creating calculated columns and measures (DAX)
-- Interactive report design
-- Time-series forecasting
-- Creating KPIs and visual insights
+# 🧠 Skills Demonstrated
+- Power BI Data Modeling  
+- Data cleaning & transformation  
+- Creating calculated columns and measures (DAX)  
+- Building interactive reports  
+- Time-series forecasting  
+- Designing KPI indicators and visual insights  
 
-Files Included
-- Standard_Store_Sales_Dashboard.pbix
-- Dashboard_PDF_Export.pdf
-- Documentation with insights
+# 📁 Files Included
+- Standard_Store_Sales_Dashboard.pbix  
+- Dashboard_PDF_Export.pdf 
+- Documentation with insights  
 
-Dashboard Features
-- Sales by Category & Sub-Category
-- Sales & Profit Trend (2019–2020)
-- Orders, Sales, Profit, Ship Days KPIs
-- Sales by Ship Mode
-- Sales by Region & Segment
-- Payment Mode Analysis
-- Map Visualization (State-level sales)
+# 📈 Dashboard Features
+- Sales by Category & Sub-Category  
+- Sales & Profit Trend (2019–2020)  
+- Orders, Sales, Profit & Ship Days KPIs  
+- Sales by Ship Mode  
+- Sales by Region & Segment  
+- Payment Mode Analysis  
+- Map Visualization (State-level sales)  
+
+# 📝 Project Learnings / Insights
+- Identified highest revenue-generating categories  
+- Compared yearly sales & profit patterns  
+- Analyzed segment-wise customer contribution  
+- Studied regional and state-level performance  
+- Used forecasting to estimate future sales trends  
+
+# 📦 How to Use
+1. Download the .pbix file  
+2. Open it in **Power BI Desktop**  
+3. Explore visuals, filters & forecasting features  
+
+## 🙌 Acknowledgment
+This project is based on a tutorial by **Rishabh (YouTube)** and recreated for learning and portfolio purposes.
