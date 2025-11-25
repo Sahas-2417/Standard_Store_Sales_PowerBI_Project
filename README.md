@@ -16,7 +16,7 @@ It includes data cleaning, DAX calculations, visualization design, forecasting, 
 - Designing KPI indicators and visual insights  
 
 # Files Included
-- Standard_Store_Sales_Dashboard.pbix  
+- Sahas_Standard_Store_Sales_Dashboard.pbix  
 - Sahas_Standard_Store_Dashboard.pdf
 - Documentation with insights  
 
