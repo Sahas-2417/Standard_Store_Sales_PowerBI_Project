@@ -2,7 +2,7 @@
 
 An **Advanced Power BI Sales Dashboard** demonstrating end-to-end data analytics workflow including:  
 Data cleaning, DAX calculations, interactive dashboard creation, sales & profit trend analysis, regional insights, and forecasting.
-
+![Standard Store Sales Dashboard](dashboard.png)
 # 🚀 Project Overview
 This project is an advanced Power BI dashboard created by following a guided tutorial.  
 It includes data cleaning, DAX calculations, visualization design, forecasting, and insight generation.
